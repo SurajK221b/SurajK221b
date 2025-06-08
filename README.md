@@ -28,7 +28,7 @@ Senior Software Engineer with **6+ years of experience** in full-stack developme
 
 ## 🧩 Highlight Projects
 
-### 🔹 [Curriculo - EU Portfolio](https://dev-persona.vercel.app)
+### 🔹 [Curriculo - EU Portfolio](https://dev-persona.vercel.app/home)
 
 Modern, minimal, and job-focused developer portfolio built to target the European tech job market.
 
