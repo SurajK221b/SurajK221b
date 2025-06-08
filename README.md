@@ -32,10 +32,6 @@ Senior Software Engineer with **6+ years of experience** in full-stack developme
 
 Modern, minimal, and job-focused developer portfolio built to target the European tech job market.
 
-### 🔹 Uber-Style Receipt Generator (.NET Desktop App)
-
-Automates monthly PDF receipt generation using dynamic Word templates and .NET WinForms.
-
 ### 🔹 EY Interact Payroll System
 
 Designed and implemented a payroll platform with .NET Core microservices and Angular. Integrated Azure Service Bus and streamlined enterprise payroll processes.
