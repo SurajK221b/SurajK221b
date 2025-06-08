@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Suraj 👋
 
-<!--
-**SurajK221b/SurajK221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **.NET Full Stack Developer** with experience in building scalable web and desktop apps using:
 
-Here are some ideas to get you started:
+- ⚙️ .NET | C# | WinForms | WPF
+- 🌐 Angular | JavaScript | HTML/CSS
+- ☁️ Azure | REST APIs
+- 🛠️ SQL Server | Entity Framework
+- 🧪 NUnit | Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- 🔹 [Curriculo - EU Portfolio](https://dev-persona.vercel.app) — A modern, job-focused portfolio targeting EU tech roles.
+- 🔹 Uber-style Receipt Generator (.NET Desktop App) — Automates monthly PDF receipt creation.
+
+---
+
+## 🤝 Connect with Me
+
+- 🌍 Portfolio: [dev-persona.vercel.app](https://dev-persona.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/surajkhodade](https://linkedin.com/in/surajkhodade)
+- 📱 WhatsApp: [wa.me/yourphonenumber](https://wa.me/yourphonenumber) *(replace with your number)*
+
+---
+
+💬 Always open to freelance opportunities or SME (.NET) support for global teams!
