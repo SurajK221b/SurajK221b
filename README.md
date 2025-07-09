@@ -3,7 +3,7 @@
 🚀 Senior Software Engineer | Full Stack Developer | ML & Generative AI Engineer  
 🧠 Python | .NET Core | Azure | Angular | TensorFlow | NLP | LLMs  
 
-📍 Pune, India | 🌍 Open to Relocation (EU Preferred) | 💻 Remote-Friendly  
+📍 Pune, India | 💻 Remote-Friendly  
 📧 [suraj.khodade7@gmail.com](mailto:suraj.khodade7@gmail.com) | 📞 +91 9890079626  
 🔗 [LinkedIn](https://linkedin.com/in/surajkhodade) | 🌐 [Portfolio](https://dev-persona.vercel.app)
 
