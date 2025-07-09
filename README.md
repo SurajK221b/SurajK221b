@@ -29,7 +29,7 @@ Senior Software Engineer with **6+ years in full-stack development** and **4 yea
 
 ## 🧩 Notable Projects
 
-### 🔹 [AI-Augmented Web Scraping & Content Intelligence](https://dev-persona.vercel.app)
+### 🔹 AI-Augmented Web Scraping & Content Intelligence
 Python-based web scraping + OpenAI GPT for automated summarization and classification. Reduced manual review by 60%.
 
 ### 🔹 Payroll Anomaly Detection using Machine Learning
